@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552999339 source:/home/zhenwang/cproject/horor/dijkstra.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<limits.h>
+	<vector>
+
